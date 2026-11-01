@@ -1,0 +1,6 @@
+{
+  "name": "usage-bars",
+  "version": "0.1.0",
+  "description": "Barras de uso dos limites de 5h e semanal acima do prompt, com o tempo até renovar",
+  "types": "./types/index.d.ts"
+}
